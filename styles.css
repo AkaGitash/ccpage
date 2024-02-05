@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+#opening-animation {
+    text-align: center;
+    padding: 50px;
+    background-color: #3498db;
+    color: #fff;
+    font-size: 1.5em; /* Adjust the font size here */
+}
+
+#main-content {
+    padding: 20px;
+}
+
+#ppc {
+    padding: 20px;
+}
+
+h2, p, ol, li {
+    font-size: 1em; /* Adjust the font size for the main content */
+}
